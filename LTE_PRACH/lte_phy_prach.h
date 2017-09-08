@@ -4,8 +4,7 @@
 #include "lte_common_type.h"
 
 #define D_LTE_DL_UL_CONFIG 7
-#define D_LTE_PRACH_CONFIG_SHIFT_INDEX 154
-
+#define D_LTE_PRACH_CONFIG_SHIFT_INDEX 155
 
 typedef struct
 {
